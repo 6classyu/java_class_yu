@@ -48,10 +48,16 @@
 
   Program (破GA梦)程序
 
-  
-
   static (死的T可)
-
+void
+main
+String
+aegs
+System
+out
+println
+Hello
+World
 */
 
 /* 例案1-1-1 */
